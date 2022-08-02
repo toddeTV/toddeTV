@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+You can find most of my projects on GitLab:  
+[gitlab.com/toddeTV](https://gitlab.com/toddeTV)
+
+I like humans - most of the time. So feel free to contact me 😄
+
 <!--
 **toddeTV/toddeTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
