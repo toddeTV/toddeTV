@@ -1,6 +1,5 @@
-# Thorsten Seyschab
+# Hey there 👋 Nice to meet you.
 
-First of all: Hi there 👋 Nice to meet you.  
 My name is Thorsten Seyschab and I am a computer scientist specialiced on web development and databases.  
 I like humans - most of the time. So feel free to contact me. I would be happy to meet you 😄
 
@@ -11,7 +10,7 @@ Unfortunately, I mostly work on paid jobs and have less time for open source pro
 So up until now you can find most of my projects on GitLab:  
 [gitlab.com/toddeTV](https://gitlab.com/toddeTV)
 
-## GitHub stats
+## GitHub metrics
 
 [![GitHub metrics](https://metrics.lecoq.io/toddeTV)](https://metrics.lecoq.io/)
 
@@ -21,15 +20,33 @@ So up until now you can find most of my projects on GitLab:
 
 <!--
 //todo missing
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/toddeTV)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:18108613)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_palpatine69/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_Lord_Heathen)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/...)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:...)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/...)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/...)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/...)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/...)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='dev' height='40'>](https://dev.to/...)
+
+or
+
+<h2 align="center">Where to follow me</h2>
+<br>
+<p align="center">
+  <a href="..." target="_blank">🕸️ Website</a>
+  &bull;
+  <a href="..." target="_blank">📝 Blog</a>
+  &bull;
+  <a href="..." target="_blank">🐦 Twitter</a>
+  <br>
+  <a href="..." target="_blank">🗃️ LinkedIn</a>
+  &bull;
+  <a href="..." target="_blank">📺 Twitch</a>
+</p>
 -->
 
 <!--
-Not used stats:
+Not used metrics/ stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toddeTV&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
