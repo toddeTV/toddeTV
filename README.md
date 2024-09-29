@@ -1,15 +1,9 @@
 # Hey there 👋 Nice to meet you.
 
-My name is Thorsten Seyschab and I am a computer scientist specialiced on web development and databases.  
-I like humans - most of the time. So feel free to contact me. I would be happy to meet you 😄
+My name is Thorsten Seyschab and I am a computer scientist and web engineer focused on web technologies and databases.<br>
+Feel free to contact me. I would be happy to meet you 😄
 
-## GitHub vs GitLab
-
-Both are great. I use GitLab for my paid jobs and GitHub for Open Source projects.  
-Unfortunately, I mostly work on paid jobs and have less time for open source projects - but not no time.  
-So up until now you can find most of my projects on GitLab:  
-[gitlab.com/toddeTV](https://gitlab.com/toddeTV)
-
+<!--
 ## GitHub metrics
 
 [![GitHub metrics](https://metrics.lecoq.io/toddeTV)](https://metrics.lecoq.io/)
@@ -17,6 +11,7 @@ So up until now you can find most of my projects on GitLab:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toddeTV&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Profile views](https://gpvc.arturio.dev/toddeTV)](https://github.com/arturssmirnovs/github-profile-views-counter) &nbsp;&nbsp;&nbsp;&nbsp; ___got ya tracked 😜___
+-->
 
 <!--
 //todo missing
