@@ -1,7 +1,28 @@
+# Hi, I'm Thorsten 👋
+
+**IT consultant, senior full-stack developer, and conference speaker** from Dresden, Germany - self-employed since 2014.
+
+---
+
+I help companies ship their projects, provide technical guidance, and build robust applications - from architecture to deployment.
+
+My main stack revolves around **web technologies**, modern build tooling, and **databases**. Beyond classic web development, I have a particular passion for bringing **3D experiences to the browser**.
+
+I hold a **Master's degree in Computer Science** from TUD Dresden University of Technology, where I contributed to database research published at IEEE ICDE 2016 and BTW 2017.
+
+When I'm not working with clients, you'll find me contributing to **open-source projects**, giving talks at international conferences like Vue.js Amsterdam, NuxtNation, ViteConf, and Vue Fes Japan - or tinkering with my **3D printers**.
+
+## Connect
+
+All my social links and contact details are listed and kept up to date on my portfolio:<br>
+🌐 **[todde.tv](https://todde.tv/#connect)**
+
+<!--
 # Hey there 👋 Nice to meet you.
 
 My name is Thorsten Seyschab and I am a computer scientist and web engineer focused on web technologies and databases.<br>
 Feel free to contact me. I would be happy to meet you 😄
+-->
 
 <!--
 ## GitHub metrics
